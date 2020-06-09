@@ -1,6 +1,6 @@
 ## 中華郵政大數據競
+
 - 背景介紹
-  -
 - 競賽結果呈現
   - [初賽](https://github.com/ching-wen123/post_competition/blob/master/%E9%83%B5%E5%B1%80%E5%A4%A7%E6%95%B8%E6%93%9A.pdf)
   
